@@ -1,3 +1,7 @@
+/**
+ * Grishkevich Ivan
+ */
+
 public class Main {
     public static void main(String[] args){
         int[]array=new int[]{1,45,34,-56,3,-4,-5};
