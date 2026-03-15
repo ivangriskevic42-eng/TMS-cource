@@ -1,3 +1,6 @@
+/**
+ * Grishkevich Ivan
+ */
 import java.util.Random;
 public class Main5 {
     public static void main(String[] args) {

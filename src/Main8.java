@@ -1,3 +1,6 @@
+/**
+ * Grishkevich Ivan
+ */
 import java.util.Random;
 
 public class Main8 {
